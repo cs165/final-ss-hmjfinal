@@ -4,8 +4,10 @@
 
 特性:
 1.壹張sheet作為索引,可以自動新建多張對應名稱的sheet
+
 2.首頁增加"name"和email 表單，通過表單可以綁定姓名和通過email共同編輯googlesheet
-2.在
+
+
 3.修改部分樣式
 
 視頻地址:https://www.youtube.com/watch?v=zXEB8Fkvx7I&feature=youtu.be
